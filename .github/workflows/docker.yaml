@@ -26,7 +26,7 @@ jobs:
 
     - name: Build and push image to ACR EE
       run: |
-        docker login -u $ALIYUN_REGISTRY_USER -p Liyy0410 $REGISTRY
+        docker login -u horus1987 -p Liyy0410 registry.cn-hangzhou.aliyuncs.com
         sh pull.sh
         data=`cat trigger.txt`
 
