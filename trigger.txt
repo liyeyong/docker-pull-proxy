@@ -7,3 +7,5 @@ langgenius/dify-sandbox:0.2.1 registry.cn-hangzhou.aliyuncs.com/dify_hours/dify-
 ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/dify_hours/squid:latest
 nginx:latest registry.cn-hangzhou.aliyuncs.com/dify_hours/nginx:latest
 
+
+
