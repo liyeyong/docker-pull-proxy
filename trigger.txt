@@ -8,4 +8,4 @@ ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/dify_hours/squid:latest
 nginx:latest registry.cn-hangzhou.aliyuncs.com/dify_hours/nginx:latest
 one-api:v0.6.6 registry.cn-hangzhou.aliyuncs.com/dify_hours/one-api:v0.6.6
 mysql:8.0.36 registry.cn-hangzhou.aliyuncs.com/dify_hours/mysql:8.0.36
-
+neo4j:latest registry.cn-hangzhou.aliyuncs.com/dify_hours/neo4j:latest
